@@ -1,3 +1,3 @@
 # timesheet
-build this project using automatic triger for every push !
+POC for Docker !!!
 All Done !
